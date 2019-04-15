@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 十年以后再回来你一定会感到很美好
 
 You can use the [editor on GitHub](https://github.com/greysonsback/mine/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
